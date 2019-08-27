@@ -1,1 +1,1 @@
-http://vg.no
+[GitHub](http://github.com)
